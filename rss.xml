@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[Antonio Lennert]]></title>
         <description><![CDATA[Antonio Lennert]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/antonio-lennert/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 17:57:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 18:01:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/antonio-lennert/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinedbecf0668-8b08-483c-9331-69f3bb08b932/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d088b0d8-3548-40a9-ab5e-6504f90df6d0.jpg">]]></description>
+            <link>https://thegrid.ai/antonio-lennert/becf0668-8b08-483c-9331-69f3bb08b932/index.html</link>
             <guid isPermaLink="false">becf0668-8b08-483c-9331-69f3bb08b932</guid>
-            <pubDate>Thu, 24 Mar 2016 17:57:51 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2016 18:00:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
